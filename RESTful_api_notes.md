@@ -57,3 +57,5 @@ HTTP Response
 3. User lowercase letters
 4. Maintain Backward Compatibility - A URI once made public should always be available
 5. Use HTTP Verb
+
+A RESTful API is an application program interface (API) that uses HTTP requests to GET, PUT, POST and DELETE data.
